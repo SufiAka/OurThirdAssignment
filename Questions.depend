@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1552730122 source:c:\users\soufi\desktop\questions\questions\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Questions.h"
+	<ctype.h>
+
+1552305172 c:\users\soufi\desktop\questions\questions\questions.h
+
+1552729767 source:c:\users\soufi\desktop\questions\questions\source.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Questions.h"
+
